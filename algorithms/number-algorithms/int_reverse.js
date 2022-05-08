@@ -6,6 +6,6 @@ function int_reverse(n) {
 }
 
 const result1 = int_reverse(400)
-const result11 = int_reverse(-43332)
+const result2 = int_reverse(-43332)
 console.log("result1", result1)
-console.log("result11", result11)
+console.log("result2", result2)

@@ -23,6 +23,6 @@ function max_chars(str) {
 }
 
 const result1 = max_chars("400")
-const result11 = max_chars("43332g333333cccccccccccc")
+const result2 = max_chars("43332g333333cccccccccccc")
 console.log("result1", result1)
-console.log("result11", result11)
+console.log("result2", result2)
