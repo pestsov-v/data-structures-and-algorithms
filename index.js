@@ -1,5 +1,8 @@
-//requires modules
-require('./string-algorithms/string_reversal')
+//REQUIRES MODULES
+
+// STRING
+// require('./string-algorithms/string_reversal')
+require('./string-algorithms/palindrome')
 
 
 
