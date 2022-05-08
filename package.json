@@ -1,0 +1,24 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "Big O являет собой математический принцип определяющий количество операций необходимых доя достижения результата. \r Big O исчесляется в количестве операций n.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AveselsJS/data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AveselsJS/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/AveselsJS/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
