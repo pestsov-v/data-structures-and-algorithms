@@ -3,10 +3,10 @@
 // STRING
 // require('./algorithms/string-algorithms/string_reversal')
 // require('./algorithms/string-algorithms/palindrome')
-
+require('./algorithms/string-algorithms/max_chars')
 
 // NUMBERS
-require('./algorithms/number-algorithms/int_reverse')
+// require('./algorithms/number-algorithms/int_reverse')
 
 
 

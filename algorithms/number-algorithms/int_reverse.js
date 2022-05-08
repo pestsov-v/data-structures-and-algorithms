@@ -1,3 +1,4 @@
+// Реверсирует число
 function int_reverse(n) {
     const reversed = n.toString().split('').reverse().join('')
 

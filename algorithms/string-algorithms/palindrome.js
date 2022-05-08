@@ -1,3 +1,4 @@
+// Сравнивает одинаково ли слово если его читать с конца или с начала
 function palindrome1(str) {
     return str.split('').every((char, i) => {
         return char === str[str.length - i - 1]
