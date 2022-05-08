@@ -1,9 +1,12 @@
 //REQUIRES MODULES
 
 // STRING
-// require('./string-algorithms/string_reversal')
-require('./string-algorithms/palindrome')
+// require('./algorithms/string-algorithms/string_reversal')
+// require('./algorithms/string-algorithms/palindrome')
 
+
+// NUMBERS
+require('./algorithms/number-algorithms/int_reverse')
 
 
 
