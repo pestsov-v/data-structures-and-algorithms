@@ -7,8 +7,11 @@
 
 // NUMBERS
 // require('./algorithms/number-algorithms/int_reverse')
-require('./algorithms/number-algorithms/fizz_buss')
+// require('./algorithms/number-algorithms/fizz_buss')
 
+
+// CODEWARS
+require('./codewars/nextBigger')
 
 
 
