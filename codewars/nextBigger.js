@@ -1,6 +1,11 @@
-function noSpace(x){
-    return x.split(' ').join('')
+function palindrome1(number) {
+    const n = String(number)
+    const s = 0.5 + n.length/2
+    console.log(s)
+    return n.split('').every((char, i) => {
+        return char === n[n.length - i - 1]
+    })
 }
 
-const result1 = noSpace('8 j 8   mBliB8g  imjB8B8  jl  B')
-console.log('result1', result1)
+const result1 = palindrome1(5)
+console.log("result1", result1)

@@ -4,13 +4,14 @@
 // require('./algorithms/string-algorithms/string_reversal')
 // require('./algorithms/string-algorithms/palindrome')
 // require('./algorithms/string-algorithms/max_chars')
+// require('./algorithms/string-algorithms/anagrams')
 
 // NUMBERS
 // require('./algorithms/number-algorithms/int_reverse')
 // require('./algorithms/number-algorithms/fizz_buss')
 
 // ARRAY
-require("./algorithms/array-algorithms/array-chunk");
+// require("./algorithms/array-algorithms/array-chunk");
 
 // CODEWARS
 // require("./codewars/nextBigger");
