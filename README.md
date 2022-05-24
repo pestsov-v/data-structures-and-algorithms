@@ -459,7 +459,7 @@ Big O(n): <br/>
 
 ## Алгоритмы
 
-### Алгоритмы со строковыми значениями:
+### Алгоритмы со строковыми значениями
 
 #### Anagrams (Анаграммы)
 
@@ -479,4 +479,13 @@ Cуть капитализациии в том, чтобы каждое слов
 - `A Short Sentence` 
 - `A Laze Fox`
 
-Примеры решения с кодом [anagrams](algorithms/string-algorithms/capitalization.js)
+Примеры решения с кодом [capitalization](algorithms/string-algorithms/capitalization.js)
+
+
+### Алгоритмы с цифровыми значениями
+
+#### Steps (Шаги)
+
+Шаги это совершать какое-то действие на каждом шаге
+
+Примеры решения с кодом [steps]
