@@ -473,3 +473,10 @@ Big O(n): <br/>
 
 #### Capitalization (Капитализация)
 
+Cуть капитализациии в том, чтобы каждое слово в приложении начиналось с большой буквы
+
+Примеры:
+- `A Short Sentence` 
+- `A Laze Fox`
+
+Примеры решения с кодом [anagrams](algorithms/string-algorithms/capitalization.js)
